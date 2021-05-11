@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.12"
-     inkscape:cx="21.807132"
-     inkscape:cy="3.0076796"
+     inkscape:zoom="7.2407734"
+     inkscape:cx="21.667928"
+     inkscape:cy="4.8867093"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,16 +52,16 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#747474;stroke-width:0.953354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0.47667715,0.47667715 c 9.04664565,0 9.04664565,0 9.04664565,0"
+       style="fill:none;stroke:#747474;stroke-width:1.26121;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.63061607,2.7472716 c 11.96795993,0 11.96795993,0 11.96795993,0"
        id="path833" />
     <path
-       style="fill:none;stroke:#747474;stroke-width:0.953354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0.47667715,3.476677 c 9.04664565,0 9.04664565,0 9.04664565,0"
+       style="fill:none;stroke:#747474;stroke-width:1.26121;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.63061607,6.7160218 c 11.96795993,0 11.96795993,0 11.96795993,0"
        id="path833-0" />
     <path
-       style="fill:none;stroke:#747474;stroke-width:0.953354;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 0.47667717,6.476677 c 9.04664593,0 9.04664593,0 9.04664593,0"
+       style="fill:none;stroke:#747474;stroke-width:1.26121;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.63061613,10.684773 c 11.96795987,0 11.96795987,0 11.96795987,0"
        id="path833-8" />
   </g>
 </svg>
